@@ -1,4 +1,4 @@
-# Student Peformance Dashboard
+# Student Performance Dashboard
 ![image](https://github.com/mohammedwasim1/Student-Peformance-Dashboard/assets/121304144/0a868bf3-28fb-4559-a9e9-0686d0b17899)
 
 ### **Dataset source**
