@@ -14,8 +14,6 @@ By understanding which factors have the most significant impact on academic perf
 
 ## **Steps taken**
 
-## **Steps taken**
-
 **Data integration**
 
 **Data cleaning**
