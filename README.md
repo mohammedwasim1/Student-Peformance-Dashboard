@@ -16,11 +16,25 @@ By understanding which factors have the most significant impact on academic perf
 
 **Data integration**
 
+Connected the dataset (CSV file) into Power BI, through Power Query.
+
 **Data cleaning**
-  
+
+Performed a comprehensive range of data cleaning tasks (which includes but not limited to):
+
+Providing contextual information to rankings, through replacing numbers with words. The columns Mother and Father educational attainment was provided a value from 0 - 4. Each number represented a range of values which shows the highest level of education attainment for each parent. i.e. 1 represented primary education. To provide better context to the dataset, the numbers were replaced with words to better describe the value.
+
+Single letters were used for a lot of values within columns. For example the column 'Sex' contained two values: 'Male' and 'Female'. However these were shown as 'M' and 'F respectively. The full word replaced these values to make it immediately clear to people viewing the data. Several columns followed the name convention which was then changed. 
+
+The students results were shown as a number between 1 and 20. These were changed to a percentage. I also created a new column which displayed the overall result from the three terms.
+
 **Dashboard preparation**
+
+Created measures, using DAX, to perform calculations on my data to derive new insights. These measures were then displayed as cards, within the dashboard.
   
 **Visualisations**
+  
+Employed the use of appropriate chart types to represent my data accurately and intuitively. These consisted of: Line Chart, Pie Chart and others.
   
 ## **Key insights**
 
