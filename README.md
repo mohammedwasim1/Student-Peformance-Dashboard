@@ -16,4 +16,11 @@ By understanding which factors have the most significant impact on academic perf
 
 ## **Key insights**
 
+Students who study for 6+ hours achieve 10% higher results than those who study for less than two hours.
+
+Students who have the shortest travel time to their academic institutions (less than 15 minutes) achieve the highest overall results. The students who must travel more than one hour, obtain the lowest overall results.
+
+Those who participate in extracurricular activities slightly higher results, than those who don't.
+
 ## **Recommendations**
+
