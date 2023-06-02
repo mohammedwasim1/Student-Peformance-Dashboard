@@ -1,4 +1,5 @@
 # Student Peformance Dashboard
+![image](https://github.com/mohammedwasim1/Student-Peformance-Dashboard/assets/121304144/c9cc4acf-b354-42c9-87ca-befb9d7ebc89)
 
 ### **Dataset source**
 Link to dataset: https://www.kaggle.com/datasets/larsen0966/student-performance-data-set
