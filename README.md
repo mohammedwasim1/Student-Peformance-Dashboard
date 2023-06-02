@@ -20,7 +20,7 @@ Connected the dataset (CSV file) into Power BI, through Power Query.
 
 **Data cleaning**
 
-Performed a comprehensive range of data cleaning tasks (which includes but not limited to):
+Performed a comprehensive range of data cleaning tasks (which included but was not limited to):
 
 Providing contextual information to rankings, through replacing numbers with words. The columns Mother and Father educational attainment was provided a value from 0 - 4. Each number represented a range of values which shows the highest level of education attainment for each parent. i.e. 1 represented primary education. To provide better context to the dataset, the numbers were replaced with words to better describe the value.
 
