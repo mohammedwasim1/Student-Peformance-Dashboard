@@ -6,7 +6,7 @@ Link to dataset: https://www.kaggle.com/datasets/larsen0966/student-performance-
 
 ## **Objective**
 
-To investigate the factors that affect students' grades and magnitude of their influence on students' academic performance.
+To investigate the factors that affect a students' overall result and understand the magnitude of their influence on students' academic performance.
 
 ## **Justification**
 
