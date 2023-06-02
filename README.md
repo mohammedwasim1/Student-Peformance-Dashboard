@@ -14,6 +14,16 @@ By understanding which factors have the most significant impact on academic perf
 
 ## **Steps taken**
 
+## **Steps taken**
+
+**Data integration**
+
+**Data cleaning**
+  
+**Dashboard preparation**
+  
+**Visualisations**
+  
 ## **Key insights**
 
 Students who study for 6+ hours achieve a mark of 10% more than those who study for less than two hours.
